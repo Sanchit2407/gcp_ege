@@ -1,4 +1,4 @@
-# gcp_ege
+STEPS
 1. The raw data was taken and uploaded to the Cloud Storage bucket using console.
 2. There was a function trigger as soon as Bucket receives data to get processed data
 3. The data is then uploaded to Pub/Sub
